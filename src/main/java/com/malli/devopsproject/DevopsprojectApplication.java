@@ -21,7 +21,7 @@ public class DevopsprojectApplication {
 
 	@GetMapping("/hello")
 	public String welcomeMsg() {
-		return "Welcome to Devops Project ";
+		return "Welcome to Devops Project Maven";
 	}
 
 }
